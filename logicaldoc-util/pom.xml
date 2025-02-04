@@ -202,4 +202,11 @@
 			<artifactId>dec</artifactId>
 		</dependency>			
 	</dependencies>
+	<repositories>
+		<repository>
+			<id>central</id>
+			<name>mvnrepository</name>
+			<url>https://mvnrepository.com/repos/terracotta/</url>
+		</repository>
+	</repositories>
 </project>
